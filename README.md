@@ -4,7 +4,7 @@
 
 - 🌱 I would like to learn **cybersecurity**
 
-- 👨‍💻 All of my projects are available at [[pendig portfolio]]([pendig portfolio])
+- 👨‍💻 All of my projects are available at ([pendig portfolio])
 
 - 📫 How to reach me **granremsk@gmail.com**
 
