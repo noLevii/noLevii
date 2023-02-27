@@ -28,4 +28,6 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noLevii&layout=compact&theme=merko)
+<a href="https://github.com/noLevii">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noLevii&layout=compact&theme=merko" />
+</a>
