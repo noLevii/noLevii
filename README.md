@@ -29,5 +29,5 @@
 </p>
 
 <a href="https://github.com/noLevii">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noLevii&layout=compact&theme=merko" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noLevii&layout=compact&theme=merko" />
 </a>
