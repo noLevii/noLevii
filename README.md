@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Martín</h1>
-<h3 align="center">Student at Universidad LaSalle México</h3>
+<h3 align="center">Cibertenics Engineer</h3>
 <img align="right" alt="Coding" width="400" src="./img/cat.gif">
 
-- 🌱 I would like to learn **AI**
+- 🌱 I´m learning **Cibersecurity**
 
 - 👨‍💻 All of my projects are available at ([pendig portfolio])
 
