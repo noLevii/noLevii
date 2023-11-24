@@ -4,13 +4,10 @@
 
 - 🌱 I´m learning **Cibersecurity**
 
-- 👨‍💻 All of my projects are available at ([pendig portfolio])
-
 - 📫 How to reach me **granremsk@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/grlevii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="grlevii" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/mart%C3%ADn-granados-reyes-2b28b522a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="martín granados reyes" height="30" width="40" /></a>
 </p>
 
