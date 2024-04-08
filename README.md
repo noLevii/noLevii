@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Martín</h1>
-<h3 align="center">Cybernetics Engineer</h3>
+<h3 align="center">Computer Systems Engineer</h3>
 <img align="right" alt="Coding" width="400" src="./img/cat.gif">
 
 - 🌱 I´m learning **Cybersecurity**
